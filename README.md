@@ -1,1 +1,1 @@
-# Rock, Paper & Scissors Game Using HTML, CSS & JS
+# Rock, Paper & Scissors Game Using HTML, CSS & JS Code
